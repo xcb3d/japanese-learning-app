@@ -11,6 +11,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        japanese: ['Noto Sans JP', 'sans-serif'],
+      },
     },
   },
   plugins: [],
