@@ -228,18 +228,7 @@ export const words = [
     romaji: "ringo",
     type: "hiragana",
   },
-  {
-    id: 39,
-    japanese: "れきし",
-    romaji: "rekishi",
-    type: "hiragana",
-  },
-  {
-    id: 40,
-    japanese: "ろうか",
-    romaji: "rouka",
-    type: "hiragana",
-  },
+
   {
     id: 41,
     japanese: "わたし",
@@ -295,12 +284,6 @@ export const words = [
     type: "hiragana",
   },
   {
-    id: 50,
-    japanese: "ずぼん",
-    romaji: "zubon",
-    type: "hiragana",
-  },
-  {
     id: 51,
     japanese: "ぜんぶ",
     romaji: "zenbu",
@@ -322,12 +305,6 @@ export const words = [
     id: 54,
     japanese: "ぢしん",
     romaji: "jishin",
-    type: "hiragana",
-  },
-  {
-    id: 55,
-    japanese: "づくえ",
-    romaji: "zukue",
     type: "hiragana",
   },
   {
@@ -374,12 +351,6 @@ export const words = [
     type: "katakana",
   },
   {
-    id: 63,
-    japanese: "ウイルス",
-    romaji: "uirusu",
-    type: "katakana",
-  },
-  {
     id: 64,
     japanese: "エレベーター",
     romaji: "erebētā",
@@ -410,35 +381,12 @@ export const words = [
     type: "katakana",
   },
   {
-    id: 69,
-    japanese: "ケーキ",
-    romaji: "kēki",
-    type: "katakana",
-  },
-  {
-    id: 70,
-    japanese: "コーヒー",
-    romaji: "kōhī",
-    type: "katakana",
-  },
-  {
     id: 71,
     japanese: "サッカー",
     romaji: "sakkā",
     type: "katakana",
   },
-  {
-    id: 72,
-    japanese: "シャツ",
-    romaji: "shatsu",
-    type: "katakana",
-  },
-  {
-    id: 73,
-    japanese: "スマホ",
-    romaji: "sumaho",
-    type: "katakana",
-  },
+
   {
     id: 74,
     japanese: "セーター",
@@ -451,40 +399,18 @@ export const words = [
     romaji: "sofā",
     type: "katakana",
   },
-  {
-    id: 76,
-    japanese: "タクシー",
-    romaji: "takushī",
-    type: "katakana",
-  },
+
   {
     id: 77,
     japanese: "チケット",
     romaji: "chiketto",
     type: "katakana",
   },
-  {
-    id: 78,
-    japanese: "テレビ",
-    romaji: "terebi",
-    type: "katakana",
-  },
-  {
-    id: 79,
-    japanese: "トイレ",
-    romaji: "toire",
-    type: "katakana",
-  },
+
   {
     id: 80,
     japanese: "ナイフ",
     romaji: "naifu",
-    type: "katakana",
-  },
-  {
-    id: 81,
-    japanese: "ニュース",
-    romaji: "nyūsu",
     type: "katakana",
   },
   {
@@ -494,27 +420,9 @@ export const words = [
     type: "katakana",
   },
   {
-    id: 83,
-    japanese: "ノート",
-    romaji: "nōto",
-    type: "katakana",
-  },
-  {
-    id: 84,
-    japanese: "パソコン",
-    romaji: "pasokon",
-    type: "katakana",
-  },
-  {
     id: 85,
     japanese: "ピザ",
     romaji: "piza",
-    type: "katakana",
-  },
-  {
-    id: 86,
-    japanese: "プール",
-    romaji: "pūru",
     type: "katakana",
   },
   {
@@ -524,27 +432,9 @@ export const words = [
     type: "katakana",
   },
   {
-    id: 88,
-    japanese: "ポケット",
-    romaji: "poketto",
-    type: "katakana",
-  },
-  {
     id: 89,
     japanese: "マスク",
     romaji: "masuku",
-    type: "katakana",
-  },
-  {
-    id: 90,
-    japanese: "ミルク",
-    romaji: "miruku",
-    type: "katakana",
-  },
-  {
-    id: 91,
-    japanese: "メール",
-    romaji: "mēru",
     type: "katakana",
   },
   {
@@ -572,21 +462,9 @@ export const words = [
     type: "katakana",
   },
   {
-    id: 96,
-    japanese: "ラジオ",
-    romaji: "rajio",
-    type: "katakana",
-  },
-  {
     id: 97,
     japanese: "リモコン",
     romaji: "rimokon",
-    type: "katakana",
-  },
-  {
-    id: 98,
-    japanese: "レストラン",
-    romaji: "resutoran",
     type: "katakana",
   },
   {
@@ -595,13 +473,6 @@ export const words = [
     romaji: "robotto",
     type: "katakana",
   },
-  {
-    id: 100,
-    japanese: "ワイン",
-    romaji: "wain",
-    type: "katakana",
-  }, // Thêm vào mảng words ở trên
-  // Thêm 80 từ hiragana mới
   {
     id: 101,
     japanese: "あめ",
@@ -824,34 +695,11 @@ export const words = [
     romaji: "yuubin",
     type: "hiragana",
   },
-  {
-    id: 138,
-    japanese: "よてい",
-    romaji: "yotei",
-    type: "hiragana",
-  },
-  {
-    id: 139,
-    japanese: "らいげつ",
-    romaji: "raigetsu",
-    type: "hiragana",
-  },
-  {
-    id: 140,
-    japanese: "りょうり",
-    romaji: "ryouri",
-    type: "hiragana",
-  },
+
   {
     id: 141,
     japanese: "れんしゅう",
     romaji: "renshuu",
-    type: "hiragana",
-  },
-  {
-    id: 142,
-    japanese: "ろうそく",
-    romaji: "rousoku",
     type: "hiragana",
   },
   {
@@ -906,12 +754,6 @@ export const words = [
     id: 151,
     japanese: "ずぼん",
     romaji: "zubon",
-    type: "hiragana",
-  },
-  {
-    id: 152,
-    japanese: "ぜんぶ",
-    romaji: "zenbu",
     type: "hiragana",
   },
   {
@@ -975,12 +817,6 @@ export const words = [
     type: "hiragana",
   },
   {
-    id: 163,
-    japanese: "ぼうし",
-    romaji: "boushi",
-    type: "hiragana",
-  },
-  {
     id: 164,
     japanese: "ぱちんこ",
     romaji: "pachinko",
@@ -996,18 +832,6 @@ export const words = [
     id: 166,
     japanese: "ぷりん",
     romaji: "purin",
-    type: "hiragana",
-  },
-  {
-    id: 167,
-    japanese: "ぺんき",
-    romaji: "penki",
-    type: "hiragana",
-  },
-  {
-    id: 168,
-    japanese: "ぽけっと",
-    romaji: "poketto",
     type: "hiragana",
   },
   {
@@ -1090,18 +914,6 @@ export const words = [
     type: "katakana",
   },
   {
-    id: 182,
-    japanese: "インターネット",
-    romaji: "intānetto",
-    type: "katakana",
-  },
-  {
-    id: 183,
-    japanese: "エアコン",
-    romaji: "eakon",
-    type: "katakana",
-  },
-  {
     id: 184,
     japanese: "カラオケ",
     romaji: "karaoke",
@@ -1111,18 +923,6 @@ export const words = [
     id: 185,
     japanese: "ギター",
     romaji: "gitā",
-    type: "katakana",
-  },
-  {
-    id: 186,
-    japanese: "スポーツ",
-    romaji: "supōtsu",
-    type: "katakana",
-  },
-  {
-    id: 187,
-    japanese: "ゼロ",
-    romaji: "zero",
     type: "katakana",
   },
   {
@@ -1147,18 +947,6 @@ export const words = [
     id: 191,
     japanese: "ビール",
     romaji: "bīru",
-    type: "katakana",
-  },
-  {
-    id: 192,
-    japanese: "プレゼント",
-    romaji: "purezento",
-    type: "katakana",
-  },
-  {
-    id: 193,
-    japanese: "ホテル",
-    romaji: "hoteru",
     type: "katakana",
   },
   {
@@ -1191,12 +979,7 @@ export const words = [
     romaji: "hanbāgā",
     type: "katakana",
   },
-  {
-    id: 199,
-    japanese: "シャワー",
-    romaji: "shawā",
-    type: "katakana",
-  },
+
   {
     id: 200,
     japanese: "クレジット",
@@ -1209,1803 +992,2396 @@ export const words = [
     id: 201,
     japanese: "あさごはん",
     romaji: "asagohan",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 202,
     japanese: "いもうと",
     romaji: "imouto",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 203,
     japanese: "うんどう",
     romaji: "undou",
-    type: "hiragana"
-  },
-  {
-    id: 204,
-    japanese: "えんぴつ",
-    romaji: "enpitsu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 205,
     japanese: "おんがく",
     romaji: "ongaku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 206,
     japanese: "かいだん",
     romaji: "kaidan",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 207,
     japanese: "きんようび",
     romaji: "kinyoubi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 208,
     japanese: "くうこう",
     romaji: "kuukou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 209,
     japanese: "けんこう",
     romaji: "kenkou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 210,
     japanese: "こうえん",
     romaji: "kouen",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 211,
     japanese: "さいふ",
     romaji: "saifu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 212,
     japanese: "しんぶん",
     romaji: "shinbun",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 213,
     japanese: "すいどう",
     romaji: "suidou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 214,
     japanese: "せんたく",
     romaji: "sentaku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 215,
     japanese: "そつぎょう",
     romaji: "sotsugyou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 216,
     japanese: "たんじょうび",
     romaji: "tanjoubi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 217,
     japanese: "ちかてつ",
     romaji: "chikatetsu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 218,
     japanese: "つうやく",
     romaji: "tsuuyaku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 219,
     japanese: "てぶくろ",
     romaji: "tebukuro",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 220,
     japanese: "としょかん",
     romaji: "toshokan",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 221,
     japanese: "なつやすみ",
     romaji: "natsuyasumi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 222,
     japanese: "にちようび",
     romaji: "nichiyoubi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 223,
     japanese: "ぬりえ",
     romaji: "nurie",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 224,
     japanese: "ねつ",
     romaji: "netsu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 225,
     japanese: "のうか",
     romaji: "nouka",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 226,
     japanese: "はいしゃ",
     romaji: "haisha",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 227,
     japanese: "ひるやすみ",
     romaji: "hiruyasumi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 228,
     japanese: "ふろば",
     romaji: "furoba",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 229,
     japanese: "へいたい",
     romaji: "heitai",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 230,
     japanese: "ほうそう",
     romaji: "housou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 231,
     japanese: "まいにち",
     romaji: "mainichi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 232,
     japanese: "みどり",
     romaji: "midori",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 233,
     japanese: "むりょう",
     romaji: "muryou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 234,
     japanese: "めいわく",
     romaji: "meiwaku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 235,
     japanese: "もくようび",
     romaji: "mokuyoubi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 236,
     japanese: "やきゅう",
     romaji: "yakyuu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 237,
     japanese: "ゆうめい",
     romaji: "yuumei",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 238,
     japanese: "よやく",
     romaji: "yoyaku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 239,
     japanese: "らいしゅう",
     romaji: "raishuu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 240,
     japanese: "りょうしん",
     romaji: "ryoushin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 241,
     japanese: "れいぞうこ",
     romaji: "reizouko",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 242,
     japanese: "ろうじん",
     romaji: "roujin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 243,
     japanese: "わふく",
     romaji: "wafuku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 244,
     japanese: "がくせい",
     romaji: "gakusei",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 245,
     japanese: "ぎせい",
     romaji: "gisei",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 246,
     japanese: "ぐたいてき",
     romaji: "gutaiteki",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 247,
     japanese: "げんいん",
     romaji: "genin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 248,
     japanese: "ごうりてき",
     romaji: "gouriteki",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 249,
     japanese: "ざんねん",
     romaji: "zannen",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 250,
     japanese: "じどうしゃ",
     romaji: "jidousha",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 251,
     japanese: "ずつう",
     romaji: "zutsuu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 252,
     japanese: "ぜいきん",
     romaji: "zeikin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 253,
     japanese: "ぞうきん",
     romaji: "zoukin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 254,
     japanese: "だいがくせい",
     romaji: "daigakusei",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 255,
     japanese: "ぢばん",
     romaji: "jiban",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 256,
     japanese: "づくり",
     romaji: "zukuri",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 257,
     japanese: "でんき",
     romaji: "denki",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 258,
     japanese: "どうろ",
     romaji: "douro",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 259,
     japanese: "ばんごう",
     romaji: "bangou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 260,
     japanese: "びょうにん",
     romaji: "byounin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 261,
     japanese: "ぶんがく",
     romaji: "bungaku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 262,
     japanese: "べんり",
     romaji: "benri",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 263,
     japanese: "ぼうえき",
     romaji: "boueki",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 264,
     japanese: "ぱんや",
     romaji: "panya",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 265,
     japanese: "ぴんち",
     romaji: "pinchi",
-    type: "hiragana"
-  },
-  {
-    id: 266,
-    japanese: "ぷれぜんと",
-    romaji: "purezento",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 267,
     japanese: "ぺんき",
     romaji: "penki",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 268,
     japanese: "ぽすと",
     romaji: "posuto",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 269,
     japanese: "きょねん",
     romaji: "kyonen",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 270,
     japanese: "ぎょうむ",
     romaji: "gyoumu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 271,
     japanese: "しょうがつ",
     romaji: "shougatsu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 272,
     japanese: "ちょうさ",
     romaji: "chousa",
-    type: "hiragana"
-  },
-  {
-    id: 273,
-    japanese: "にょうぼう",
-    romaji: "nyoubou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 274,
     japanese: "ひょうげん",
     romaji: "hyougen",
-    type: "hiragana"
+    type: "hiragana",
   },
-  {
-    id: 275,
-    japanese: "みょうじ",
-    romaji: "myouji",
-    type: "hiragana"
-  },
-  {
-    id: 276,
-    japanese: "りょうり",
-    romaji: "ryouri",
-    type: "hiragana"
-  },
-  {
-    id: 277,
-    japanese: "きょうかい",
-    romaji: "kyoukai",
-    type: "hiragana"
-  },
+
   {
     id: 278,
     japanese: "しゅっせき",
     romaji: "shusseki",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 279,
     japanese: "じゅんび",
     romaji: "junbi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 280,
     japanese: "ちょうせん",
     romaji: "chousen",
-    type: "hiragana"
+    type: "hiragana",
   },
   // 20 từ katakana mới
   {
     id: 281,
     japanese: "アニメ",
     romaji: "anime",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 282,
     japanese: "イベント",
     romaji: "ibento",
-    type: "katakana"
-  },
-  {
-    id: 283,
-    japanese: "ウェブサイト",
-    romaji: "webusaito",
-    type: "katakana"
-  },
-  {
-    id: 284,
-    japanese: "エスカレーター",
-    romaji: "esukarētā",
-    type: "katakana"
-  },
-  {
-    id: 285,
-    japanese: "オフィス",
-    romaji: "ofisu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 286,
     japanese: "クリスマス",
     romaji: "kurisumasu",
-    type: "katakana"
+    type: "katakana",
   },
-  {
-    id: 287,
-    japanese: "サービス",
-    romaji: "sābisu",
-    type: "katakana"
-  },
+
   {
     id: 288,
     japanese: "システム",
     romaji: "shisutemu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 289,
     japanese: "スケジュール",
     romaji: "sukejūru",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 290,
     japanese: "ダイエット",
     romaji: "daietto",
-    type: "katakana"
-  },
-  {
-    id: 291,
-    japanese: "チケット",
-    romaji: "chiketto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 292,
     japanese: "デザイン",
     romaji: "dezain",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 293,
     japanese: "トラブル",
     romaji: "toraburu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 294,
     japanese: "バッテリー",
     romaji: "batterī",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 295,
     japanese: "パスポート",
     romaji: "pasupōto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 296,
     japanese: "ファイル",
     romaji: "fairu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 297,
     japanese: "メッセージ",
     romaji: "messēji",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 298,
     japanese: "ライセンス",
     romaji: "raisensu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 299,
     japanese: "リモート",
     romaji: "rimōto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 300,
     japanese: "ワクチン",
     romaji: "wakuchin",
-    type: "katakana"
-  },// Thêm vào mảng words ở trên
+    type: "katakana",
+  }, // Thêm vào mảng words ở trên
   // 80 từ hiragana mới
   {
     id: 301,
     japanese: "あいさつ",
     romaji: "aisatsu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 302,
     japanese: "いしゃ",
     romaji: "isha",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 303,
     japanese: "うらない",
     romaji: "uranai",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 304,
     japanese: "えんそく",
     romaji: "ensoku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 305,
     japanese: "おみやげ",
     romaji: "omiyage",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 306,
     japanese: "かいもの",
     romaji: "kaimono",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 307,
     japanese: "きっさてん",
     romaji: "kissaten",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 308,
     japanese: "くすのき",
     romaji: "kusunoki",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 309,
     japanese: "けいさつ",
     romaji: "keisatsu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 310,
     japanese: "こうつう",
     romaji: "koutsuu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 311,
     japanese: "さんぽ",
     romaji: "sanpo",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 312,
     japanese: "しゅっちょう",
     romaji: "shucchou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 313,
     japanese: "すいみん",
     romaji: "suimin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 314,
     japanese: "せいかつ",
     romaji: "seikatsu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 315,
     japanese: "そうだん",
     romaji: "soudan",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 316,
     japanese: "たいいく",
     romaji: "taiiku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 317,
     japanese: "ちゅうもん",
     romaji: "chuumon",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 318,
     japanese: "つりざお",
     romaji: "tsurizao",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 319,
     japanese: "てんらんかい",
     romaji: "tenrankai",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 320,
     japanese: "とうろく",
     romaji: "touroku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 321,
     japanese: "ないよう",
     romaji: "naiyou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 322,
     japanese: "にゅうりょく",
     romaji: "nyuuryoku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 323,
     japanese: "ぬのもの",
     romaji: "nunomono",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 324,
     japanese: "ねんれい",
     romaji: "nenrei",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 325,
     japanese: "のうみん",
     romaji: "noumin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 326,
     japanese: "はつおん",
     romaji: "hatsuon",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 327,
     japanese: "ひつよう",
     romaji: "hitsuyou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 328,
     japanese: "ふうけい",
     romaji: "fuukei",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 329,
     japanese: "へんかん",
     romaji: "henkan",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 330,
     japanese: "ほうそく",
     romaji: "housoku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 331,
     japanese: "まんが",
     romaji: "manga",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 332,
     japanese: "みんな",
     romaji: "minna",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 333,
     japanese: "むすめ",
     romaji: "musume",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 334,
     japanese: "めいれい",
     romaji: "meirei",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 335,
     japanese: "もくひょう",
     romaji: "mokuhyou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 336,
     japanese: "やくそく",
     romaji: "yakusoku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 337,
     japanese: "ゆうがた",
     romaji: "yuugata",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 338,
     japanese: "よてい",
     romaji: "yotei",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 339,
     japanese: "らいげつ",
     romaji: "raigetsu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 340,
     japanese: "りゅうがく",
     romaji: "ryuugaku",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 341,
     japanese: "れきし",
     romaji: "rekishi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 342,
     japanese: "ろうどう",
     romaji: "roudou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 343,
     japanese: "わりびき",
     romaji: "waribiki",
-    type: "hiragana"
-  },
-  {
-    id: 344,
-    japanese: "がっこう",
-    romaji: "gakkou",
-    type: "hiragana"
-  },
-  {
-    id: 345,
-    japanese: "ぎんこう",
-    romaji: "ginkou",
-    type: "hiragana"
-  },
-  {
-    id: 346,
-    japanese: "ぐんたい",
-    romaji: "guntai",
-    type: "hiragana"
-  },
-  {
-    id: 347,
-    japanese: "げんき",
-    romaji: "genki",
-    type: "hiragana"
-  },
-  {
-    id: 348,
-    japanese: "ごはん",
-    romaji: "gohan",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 349,
     japanese: "ざんぎょう",
     romaji: "zangyou",
-    type: "hiragana"
-  },
-  {
-    id: 350,
-    japanese: "じしん",
-    romaji: "jishin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 351,
     japanese: "ずかん",
     romaji: "zukan",
-    type: "hiragana"
-  },
-  {
-    id: 352,
-    japanese: "ぜんぶ",
-    romaji: "zenbu",
-    type: "hiragana"
-  },
-  {
-    id: 353,
-    japanese: "ぞうきん",
-    romaji: "zoukin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 354,
     japanese: "だんぼう",
     romaji: "danbou",
-    type: "hiragana"
-  },
-  {
-    id: 355,
-    japanese: "ぢしん",
-    romaji: "jishin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 356,
     japanese: "づくえ",
     romaji: "zukue",
-    type: "hiragana"
-  },
-  {
-    id: 357,
-    japanese: "でんわ",
-    romaji: "denwa",
-    type: "hiragana"
-  },
-  {
-    id: 358,
-    japanese: "どうぶつ",
-    romaji: "doubutsu",
-    type: "hiragana"
-  },
-  {
-    id: 359,
-    japanese: "ばんごはん",
-    romaji: "bangohan",
-    type: "hiragana"
-  },
-  {
-    id: 360,
-    japanese: "びょういん",
-    romaji: "byouin",
-    type: "hiragana"
-  },
-  {
-    id: 361,
-    japanese: "ぶんぽう",
-    romaji: "bunpou",
-    type: "hiragana"
-  },
-  {
-    id: 362,
-    japanese: "べんきょう",
-    romaji: "benkyou",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 363,
     japanese: "ぼうし",
     romaji: "boushi",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 364,
     japanese: "ぱすぽーと",
     romaji: "pasupooto",
-    type: "hiragana"
-  },
-  {
-    id: 365,
-    japanese: "ぴあの",
-    romaji: "piano",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 366,
     japanese: "ぷーる",
     romaji: "puuru",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 367,
     japanese: "ぺんぎん",
     romaji: "pengin",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 368,
     japanese: "ぽけっと",
     romaji: "poketto",
-    type: "hiragana"
-  },
-  {
-    id: 369,
-    japanese: "きょうしつ",
-    romaji: "kyoushitsu",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 370,
     japanese: "ぎょうざ",
     romaji: "gyouza",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 371,
     japanese: "しょうゆ",
     romaji: "shouyu",
-    type: "hiragana"
-  },
-  {
-    id: 372,
-    japanese: "ちょうちょ",
-    romaji: "choucho",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 373,
     japanese: "にょうぼう",
     romaji: "nyoubou",
-    type: "hiragana"
-  },
-  {
-    id: 374,
-    japanese: "ひょうじ",
-    romaji: "hyouji",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 375,
     japanese: "みょうじ",
     romaji: "myouji",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 376,
     japanese: "りょうり",
     romaji: "ryouri",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 377,
     japanese: "きょうかい",
     romaji: "kyoukai",
-    type: "hiragana"
+    type: "hiragana",
   },
   {
     id: 378,
     japanese: "しゅっぱつ",
     romaji: "shuppatsu",
-    type: "hiragana"
-  },
-  {
-    id: 379,
-    japanese: "じゅぎょう",
-    romaji: "jugyou",
-    type: "hiragana"
-  },
-  {
-    id: 380,
-    japanese: "ちょうさ",
-    romaji: "chousa",
-    type: "hiragana"
+    type: "hiragana",
   },
   // 20 từ katakana mới
   {
     id: 381,
     japanese: "アクセス",
     romaji: "akusesu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 382,
     japanese: "インフル",
     romaji: "infuru",
-    type: "katakana"
+    type: "katakana",
   },
-  {
-    id: 383,
-    japanese: "ウイルス",
-    romaji: "uirusu",
-    type: "katakana"
-  },
+
   {
     id: 384,
     japanese: "エネルギー",
     romaji: "enerugī",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 385,
     japanese: "オンライン",
     romaji: "onrain",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 386,
     japanese: "コピー",
     romaji: "kopī",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 387,
     japanese: "サイト",
     romaji: "saito",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 388,
     japanese: "スマホ",
     romaji: "sumaho",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 389,
     japanese: "タブレット",
     romaji: "taburetto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 390,
     japanese: "データ",
     romaji: "dēta",
-    type: "katakana"
-  },
-  {
-    id: 391,
-    japanese: "ニュース",
-    romaji: "nyūsu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 392,
     japanese: "ネット",
     romaji: "netto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 393,
     japanese: "ハッカー",
     romaji: "hakkā",
-    type: "katakana"
-  },
-  {
-    id: 394,
-    japanese: "ビデオ",
-    romaji: "bideo",
-    type: "katakana"
-  },
-  {
-    id: 395,
-    japanese: "プリンター",
-    romaji: "purintā",
-    type: "katakana"
-  },
-  {
-    id: 396,
-    japanese: "メール",
-    romaji: "mēru",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 397,
     japanese: "ユーザー",
     romaji: "yūzā",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 398,
     japanese: "リンク",
     romaji: "rinku",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 399,
     japanese: "ログイン",
     romaji: "rogu in",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 400,
     japanese: "ワイファイ",
     romaji: "waifai",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 501,
     japanese: "コンピューター",
     romaji: "konpyūtā",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 502,
     japanese: "スマートフォン",
     romaji: "sumātofon",
-    type: "katakana"
-  },
-  {
-    id: 503,
-    japanese: "カメラ",
-    romaji: "kamera",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 504,
     japanese: "テレビ",
     romaji: "terebi",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 505,
     japanese: "インターネット",
     romaji: "intānetto",
-    type: "katakana"
-  },
-  {
-    id: 506,
-    japanese: "ホテル",
-    romaji: "hoteru",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 507,
     japanese: "タクシー",
     romaji: "takushī",
-    type: "katakana"
-  },
-  {
-    id: 508,
-    japanese: "レストラン",
-    romaji: "resutoran",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 509,
     japanese: "バス",
     romaji: "basu",
-    type: "katakana"
-  },
-  {
-    id: 510,
-    japanese: "エレベーター",
-    romaji: "erebētā",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 511,
     japanese: "アイスクリーム",
     romaji: "aisukurīmu",
-    type: "katakana"
-  },
-  {
-    id: 512,
-    japanese: "チョコレート",
-    romaji: "chokorēto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 513,
     japanese: "コーヒー",
     romaji: "kōhī",
-    type: "katakana"
-  },
-  {
-    id: 514,
-    japanese: "ジュース",
-    romaji: "jūsu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 515,
     japanese: "パン",
     romaji: "pan",
-    type: "katakana"
-  },
-  {
-    id: 516,
-    japanese: "ケーキ",
-    romaji: "kēki",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 517,
     japanese: "サンドイッチ",
     romaji: "sandoicchi",
-    type: "katakana"
-  },
-  {
-    id: 518,
-    japanese: "ハンバーガー",
-    romaji: "hanbāgā",
-    type: "katakana"
-  },
-  {
-    id: 519,
-    japanese: "ピザ",
-    romaji: "piza",
-    type: "katakana"
-  },
-  {
-    id: 520,
-    japanese: "サラダ",
-    romaji: "sarada",
-    type: "katakana"
-  },
-  {
-    id: 521,
-    japanese: "ビール",
-    romaji: "bīru",
-    type: "katakana"
-  },
-  {
-    id: 522,
-    japanese: "ワイン",
-    romaji: "wain",
-    type: "katakana"
-  },
-  {
-    id: 523,
-    japanese: "シャツ",
-    romaji: "shatsu",
-    type: "katakana"
-  },
-  {
-    id: 524,
-    japanese: "ズボン",
-    romaji: "zubon",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 525,
     japanese: "スカート",
     romaji: "sukāto",
-    type: "katakana"
+    type: "katakana",
   },
-  {
-    id: 526,
-    japanese: "セーター",
-    romaji: "sētā",
-    type: "katakana"
-  },
+
   {
     id: 527,
     japanese: "ジャケット",
     romaji: "jaketto",
-    type: "katakana"
-  },
-  {
-    id: 528,
-    japanese: "ネクタイ",
-    romaji: "nekutai",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 529,
     japanese: "パジャマ",
     romaji: "pajama",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 530,
     japanese: "スニーカー",
     romaji: "sunīkā",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 531,
     japanese: "アパート",
     romaji: "apāto",
-    type: "katakana"
-  },
-  {
-    id: 532,
-    japanese: "エアコン",
-    romaji: "eakon",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 533,
     japanese: "ベッド",
     romaji: "beddo",
-    type: "katakana"
-  },
-  {
-    id: 534,
-    japanese: "ソファー",
-    romaji: "sofā",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 535,
     japanese: "テーブル",
     romaji: "tēburu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 536,
     japanese: "ドア",
     romaji: "doa",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 537,
     japanese: "トイレ",
     romaji: "toire",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 538,
     japanese: "シャワー",
     romaji: "shawā",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 539,
     japanese: "キッチン",
     romaji: "kicchin",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 540,
     japanese: "バルコニー",
     romaji: "barukonī",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 541,
     japanese: "スポーツ",
     romaji: "supōtsu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 542,
     japanese: "テニス",
     romaji: "tenisu",
-    type: "katakana"
+    type: "katakana",
   },
-  {
-    id: 543,
-    japanese: "サッカー",
-    romaji: "sakkā",
-    type: "katakana"
-  },
+
   {
     id: 544,
     japanese: "バスケット",
     romaji: "basuketto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 545,
     japanese: "ゴルフ",
     romaji: "gorufu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 546,
     japanese: "ヨガ",
     romaji: "yoga",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 547,
     japanese: "ジム",
     romaji: "jimu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 548,
     japanese: "プール",
     romaji: "pūru",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 549,
     japanese: "スキー",
     romaji: "sukī",
-    type: "katakana"
-  },
-  {
-    id: 550,
-    japanese: "ダンス",
-    romaji: "dansu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 551,
     japanese: "メール",
     romaji: "mēru",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 552,
     japanese: "パスワード",
     romaji: "pasuwādo",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 553,
     japanese: "プリンター",
     romaji: "purintā",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 554,
     japanese: "マウス",
     romaji: "mausu",
-    type: "katakana"
-  },
-  {
-    id: 555,
-    japanese: "キーボード",
-    romaji: "kībōdo",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 556,
     japanese: "ゲーム",
     romaji: "gēmu",
-    type: "katakana"
-  },
-  {
-    id: 557,
-    japanese: "ビデオ",
-    romaji: "bideo5",
-    type: "katakana"
-  },
-  {
-    id: 558,
-    japanese: "ラジオ",
-    romaji: "rajio",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 559,
     japanese: "スピーカー",
     romaji: "supīkā",
-    type: "katakana"
-  },
-  {
-    id: 560,
-    japanese: "バッテリー",
-    romaji: "batterī",
-    type: "katakana"
-  },
-  {
-    id: 561,
-    japanese: "パーティー",
-    romaji: "pātī",
-    type: "katakana"
-  },
-  {
-    id: 562,
-    japanese: "イベント",
-    romaji: "ibento",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 563,
     japanese: "コンサート",
     romaji: "konsāto",
-    type: "katakana"
-  },
-  {
-    id: 564,
-    japanese: "チケット",
-    romaji: "chiketto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 565,
     japanese: "ステージ",
     romaji: "sutēji",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 566,
     japanese: "ミュージック",
     romaji: "myūjikku",
-    type: "katakana"
-  },
-  {
-    id: 567,
-    japanese: "ギター",
-    romaji: "gitā",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 568,
     japanese: "ピアノ",
     romaji: "piano",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 569,
     japanese: "ドラム",
     romaji: "doramu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 570,
     japanese: "バンド",
     romaji: "bando",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 571,
     japanese: "メニュー",
     romaji: "menyū",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 572,
     japanese: "デザート",
     romaji: "dezāto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 573,
     japanese: "サービス",
     romaji: "sābisu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 574,
     japanese: "カード",
     romaji: "kādo",
-    type: "katakana"
-  },
-  {
-    id: 575,
-    japanese: "クレジット",
-    romaji: "kurejitto",
-    type: "katakana"
-  },
-  {
-    id: 576,
-    japanese: "アルバイト",
-    romaji: "arubaito",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 577,
     japanese: "オフィス",
     romaji: "ofisu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 578,
     japanese: "ビジネス",
     romaji: "bijinesu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 579,
     japanese: "プレゼント",
     romaji: "purezento",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 580,
     japanese: "ショッピング",
     romaji: "shoppingu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 581,
     japanese: "マーケット",
     romaji: "māketto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 582,
     japanese: "スーパー",
     romaji: "sūpā",
-    type: "katakana"
-  },
-  {
-    id: 583,
-    japanese: "デパート",
-    romaji: "depāto",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 584,
     japanese: "バーゲン",
     romaji: "bāgen",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 585,
     japanese: "セール",
     romaji: "sēru",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 586,
     japanese: "アレルギー",
     romaji: "arerugī",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 587,
     japanese: "メディカル",
     romaji: "medikaru",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 588,
     japanese: "ストレス",
     romaji: "sutoresu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 589,
     japanese: "リラックス",
     romaji: "rirakkusu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 590,
     japanese: "マッサージ",
     romaji: "massāji",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 591,
     japanese: "アクセサリー",
     romaji: "akusesarī",
-    type: "katakana"
-  },
-  {
-    id: 592,
-    japanese: "ネックレス",
-    romaji: "nekkuresu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 593,
     japanese: "ピアス",
     romaji: "piasu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 594,
     japanese: "リング",
     romaji: "ringu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 595,
     japanese: "ブレスレット",
     romaji: "buresuretto",
-    type: "katakana"
-  },
-  {
-    id: 596,
-    japanese: "メガネ",
-    romaji: "megane",
-    type: "katakana"
-  },
-  {
-    id: 597,
-    japanese: "サングラス",
-    romaji: "sangurasu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 598,
     japanese: "ハンドバッグ",
     romaji: "handobaggu",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 599,
     japanese: "バックパック",
     romaji: "bakkupakku",
-    type: "katakana"
+    type: "katakana",
   },
   {
     id: 600,
     japanese: "スーツケース",
     romaji: "sūtsukēsu",
-    type: "katakana"
-  }
+    type: "katakana",
+  },
+  {
+    id: 601,
+    japanese: "あかり",
+    romaji: "akari",
+    type: "hiragana",
+  },
+  {
+    id: 602,
+    japanese: "いし",
+    romaji: "ishi",
+    type: "hiragana",
+  },
+  {
+    id: 603,
+    japanese: "うさぎ",
+    romaji: "usagi",
+    type: "hiragana",
+  },
+  {
+    id: 604,
+    japanese: "えんぴつ",
+    romaji: "enpitsu",
+    type: "hiragana",
+  },
+  {
+    id: 605,
+    japanese: "おかし",
+    romaji: "okashi",
+    type: "hiragana",
+  },
+  {
+    id: 606,
+    japanese: "かぎ",
+    romaji: "kagi",
+    type: "hiragana",
+  },
+  {
+    id: 607,
+    japanese: "くつ",
+    romaji: "kutsu",
+    type: "hiragana",
+  },
+  {
+    id: 608,
+    japanese: "けしゴム",
+    romaji: "keshigomu",
+    type: "hiragana",
+  },
+  {
+    id: 609,
+    japanese: "こおり",
+    romaji: "koori",
+    type: "hiragana",
+  },
+  {
+    id: 610,
+    japanese: "さとう",
+    romaji: "satou",
+    type: "hiragana",
+  },
+  {
+    id: 611,
+    japanese: "しお",
+    romaji: "shio",
+    type: "hiragana",
+  },
+  {
+    id: 612,
+    japanese: "すな",
+    romaji: "suna",
+    type: "hiragana",
+  },
+  {
+    id: 613,
+    japanese: "せっけん",
+    romaji: "sekken",
+    type: "hiragana",
+  },
+  {
+    id: 614,
+    japanese: "そらまめ",
+    romaji: "soramame",
+    type: "hiragana",
+  },
+  {
+    id: 615,
+    japanese: "たぬき",
+    romaji: "tanuki",
+    type: "hiragana",
+  },
+  {
+    id: 616,
+    japanese: "ちゃわん",
+    romaji: "chawan",
+    type: "hiragana",
+  },
+  {
+    id: 617,
+    japanese: "つみき",
+    romaji: "tsumiki",
+    type: "hiragana",
+  },
+  {
+    id: 618,
+    japanese: "てんぷら",
+    romaji: "tenpura",
+    type: "hiragana",
+  },
+  {
+    id: 619,
+    japanese: "ところてん",
+    romaji: "tokoroten",
+    type: "hiragana",
+  },
+  {
+    id: 620,
+    japanese: "なべ",
+    romaji: "nabe",
+    type: "hiragana",
+  },
+  {
+    id: 621,
+    japanese: "にく",
+    romaji: "niku",
+    type: "hiragana",
+  },
+  {
+    id: 622,
+    japanese: "ぬの",
+    romaji: "nuno",
+    type: "hiragana",
+  },
+  {
+    id: 623,
+    japanese: "ねじ",
+    romaji: "neji",
+    type: "hiragana",
+  },
+  {
+    id: 624,
+    japanese: "のこぎり",
+    romaji: "nokogiri",
+    type: "hiragana",
+  },
+  {
+    id: 625,
+    japanese: "はさみ",
+    romaji: "hasami",
+    type: "hiragana",
+  },
+  {
+    id: 626,
+    japanese: "ひこうせん",
+    romaji: "hikousen",
+    type: "hiragana",
+  },
+  {
+    id: 627,
+    japanese: "ふね",
+    romaji: "fune",
+    type: "hiragana",
+  },
+  {
+    id: 628,
+    japanese: "へび",
+    romaji: "hebi",
+    type: "hiragana",
+  },
+  {
+    id: 629,
+    japanese: "ほし",
+    romaji: "hoshi",
+    type: "hiragana",
+  },
+  {
+    id: 630,
+    japanese: "まくら",
+    romaji: "makura",
+    type: "hiragana",
+  },
+  {
+    id: 631,
+    japanese: "みかん",
+    romaji: "mikan",
+    type: "hiragana",
+  },
+  {
+    id: 632,
+    japanese: "むぎ",
+    romaji: "mugi",
+    type: "hiragana",
+  },
+  {
+    id: 633,
+    japanese: "めがねふき",
+    romaji: "meganefuki",
+    type: "hiragana",
+  },
+  {
+    id: 634,
+    japanese: "もち",
+    romaji: "mochi",
+    type: "hiragana",
+  },
+  {
+    id: 635,
+    japanese: "やかん",
+    romaji: "yakan",
+    type: "hiragana",
+  },
+  {
+    id: 636,
+    japanese: "ゆかた",
+    romaji: "yukata",
+    type: "hiragana",
+  },
+  {
+    id: 637,
+    japanese: "ゆげ",
+    romaji: "yuge",
+    type: "hiragana",
+  },
+  {
+    id: 638,
+    japanese: "よろい",
+    romaji: "yoroi",
+    type: "hiragana",
+  },
+  {
+    id: 639,
+    japanese: "らくご",
+    romaji: "rakugo",
+    type: "hiragana",
+  },
+  {
+    id: 640,
+    japanese: "りす",
+    romaji: "risu",
+    type: "hiragana",
+  },
+  {
+    id: 641,
+    japanese: "るすばん",
+    romaji: "rusuban",
+    type: "hiragana",
+  },
+  {
+    id: 642,
+    japanese: "れんこん",
+    romaji: "renkon",
+    type: "hiragana",
+  },
+  {
+    id: 643,
+    japanese: "ろうそく",
+    romaji: "rousoku",
+    type: "hiragana",
+  },
+  {
+    id: 644,
+    japanese: "わかめ",
+    romaji: "wakame",
+    type: "hiragana",
+  },
+  {
+    id: 645,
+    japanese: "わに",
+    romaji: "wani",
+    type: "hiragana",
+  },
+  {
+    id: 646,
+    japanese: "をかし",
+    romaji: "wokashi",
+    type: "hiragana",
+  },
+  {
+    id: 647,
+    japanese: "しんぶんし",
+    romaji: "shinbunshi",
+    type: "hiragana",
+  },
+  {
+    id: 648,
+    japanese: "でんわき",
+    romaji: "denwaki",
+    type: "hiragana",
+  },
+  {
+    id: 649,
+    japanese: "ぶんぼうぐや",
+    romaji: "bunbouguya",
+    type: "hiragana",
+  },
+  {
+    id: 651,
+    japanese: "インク",
+    romaji: "inku",
+    type: "katakana",
+  },
+  {
+    id: 652,
+    japanese: "ウイルス",
+    romaji: "uirusu",
+    type: "katakana",
+  },
+  {
+    id: 653,
+    japanese: "エアコン",
+    romaji: "eakon",
+    type: "katakana",
+  },
+  {
+    id: 655,
+    japanese: "カレンダー",
+    romaji: "karendā",
+    type: "katakana",
+  },
+  {
+    id: 658,
+    japanese: "ケーキ",
+    romaji: "kēki",
+    type: "katakana",
+  },
+  {
+    id: 659,
+    japanese: "サラダ",
+    romaji: "sarada",
+    type: "katakana",
+  },
+  {
+    id: 660,
+    japanese: "シャツ",
+    romaji: "shatsu",
+    type: "katakana",
+  },
+  {
+    id: 661,
+    japanese: "ジュース",
+    romaji: "jūsu",
+    type: "katakana",
+  },
+  {
+    id: 662,
+    japanese: "スプーン",
+    romaji: "supūn",
+    type: "katakana",
+  },
+  {
+    id: 665,
+    japanese: "タオル",
+    romaji: "taoru",
+    type: "katakana",
+  },
+  {
+    id: 666,
+    japanese: "チーズ",
+    romaji: "chīzu",
+    type: "katakana",
+  },
+  {
+    id: 670,
+    japanese: "ニュース",
+    romaji: "nyūsu",
+    type: "katakana",
+  },
+  {
+    id: 672,
+    japanese: "ノート",
+    romaji: "nōto",
+    type: "katakana",
+  },
+  {
+    id: 673,
+    japanese: "パソコン",
+    romaji: "pasokon",
+    type: "katakana",
+  },
+  {
+    id: 675,
+    japanese: "ビデオ",
+    romaji: "bideo",
+    type: "katakana",
+  },
+  {
+    id: 676,
+    japanese: "フォーク",
+    romaji: "fōku",
+    type: "katakana",
+  },
+  {
+    id: 678,
+    japanese: "ホテル",
+    romaji: "hoteru",
+    type: "katakana",
+  },
+  {
+    id: 679,
+    japanese: "マイク",
+    romaji: "maiku",
+    type: "katakana",
+  },
+  {
+    id: 680,
+    japanese: "ミルク",
+    romaji: "miruku",
+    type: "katakana",
+  },
+  {
+    id: 682,
+    japanese: "メモ",
+    romaji: "memo",
+    type: "katakana",
+  },
+  {
+    id: 684,
+    japanese: "ラジオ",
+    romaji: "rajio",
+    type: "katakana",
+  },
+  {
+    id: 685,
+    japanese: "レストラン",
+    romaji: "resutoran",
+    type: "katakana",
+  },
+  {
+    id: 687,
+    japanese: "ワイン",
+    romaji: "wain",
+    type: "katakana",
+  },
+  {
+    id: 688,
+    japanese: "ガム",
+    romaji: "gamu",
+    type: "katakana",
+  },
+  {
+    id: 689,
+    japanese: "ギア",
+    romaji: "gia",
+    type: "katakana",
+  },
+  {
+    id: 690,
+    japanese: "グラフ",
+    romaji: "gurafu",
+    type: "katakana",
+  },
+  {
+    id: 692,
+    japanese: "ゴール",
+    romaji: "gōru",
+    type: "katakana",
+  },
+  {
+    id: 693,
+    japanese: "ザリガニ",
+    romaji: "zarigani",
+    type: "katakana",
+  },
+  {
+    id: 694,
+    japanese: "ジェット",
+    romaji: "jetto",
+    type: "katakana",
+  },
+  {
+    id: 697,
+    japanese: "ゼロ",
+    romaji: "zero",
+    type: "katakana",
+  },
+  {
+    id: 698,
+    japanese: "ダイヤモンド",
+    romaji: "daiyamondo",
+    type: "katakana",
+  },
+  {
+    id: 699,
+    japanese: "ダンボール",
+    romaji: "danbōru",
+    type: "katakana",
+  },
+  {
+    id: 700,
+    japanese: "ヂェットキ",
+    romaji: "jettoki",
+    type: "katakana",
+  },
+  {
+    id: 701,
+    japanese: "あじさい",
+    romaji: "ajisai",
+    type: "hiragana",
+  },
+  {
+    id: 702,
+    japanese: "いちご",
+    romaji: "ichigo",
+    type: "hiragana",
+  },
+  {
+    id: 703,
+    japanese: "うでどけい",
+    romaji: "udedokei",
+    type: "hiragana",
+  },
+  {
+    id: 704,
+    japanese: "えび",
+    romaji: "ebi",
+    type: "hiragana",
+  },
+  {
+    id: 705,
+    japanese: "おにぎり",
+    romaji: "onigiri",
+    type: "hiragana",
+  },
+  {
+    id: 706,
+    japanese: "かいがら",
+    romaji: "kaigara",
+    type: "hiragana",
+  },
+  {
+    id: 707,
+    japanese: "くじら",
+    romaji: "kujira",
+    type: "hiragana",
+  },
+  {
+    id: 708,
+    japanese: "げた",
+    romaji: "geta",
+    type: "hiragana",
+  },
+  {
+    id: 709,
+    japanese: "こま",
+    romaji: "koma",
+    type: "hiragana",
+  },
+  {
+    id: 710,
+    japanese: "さくらんぼ",
+    romaji: "sakuranbo",
+    type: "hiragana",
+  },
+  {
+    id: 711,
+    japanese: "しんじゅ",
+    romaji: "shinju",
+    type: "hiragana",
+  },
+  {
+    id: 712,
+    japanese: "すいか",
+    romaji: "suika",
+    type: "hiragana",
+  },
+  {
+    id: 713,
+    japanese: "せんぷうき",
+    romaji: "senpuuki",
+    type: "hiragana",
+  },
+  {
+    id: 714,
+    japanese: "そろばん",
+    romaji: "soroban",
+    type: "hiragana",
+  },
+  {
+    id: 715,
+    japanese: "たいこ",
+    romaji: "taiko",
+    type: "hiragana",
+  },
+  {
+    id: 716,
+    japanese: "ちまき",
+    romaji: "chimaki",
+    type: "hiragana",
+  },
+  {
+    id: 717,
+    japanese: "つくし",
+    romaji: "tsukushi",
+    type: "hiragana",
+  },
+  {
+    id: 719,
+    japanese: "とんぼ",
+    romaji: "tonbo",
+    type: "hiragana",
+  },
+  {
+    id: 720,
+    japanese: "なす",
+    romaji: "nasu",
+    type: "hiragana",
+  },
+  {
+    id: 721,
+    japanese: "にんじん",
+    romaji: "ninjin",
+    type: "hiragana",
+  },
+  {
+    id: 723,
+    japanese: "ねぎ",
+    romaji: "negi",
+    type: "hiragana",
+  },
+  {
+    id: 724,
+    japanese: "のり",
+    romaji: "nori",
+    type: "hiragana",
+  },
+  {
+    id: 725,
+    japanese: "はくさい",
+    romaji: "hakusai",
+    type: "hiragana",
+  },
+  {
+    id: 726,
+    japanese: "ひまわり",
+    romaji: "himawari",
+    type: "hiragana",
+  },
+  {
+    id: 727,
+    japanese: "ふうせん",
+    romaji: "fuusen",
+    type: "hiragana",
+  },
+  {
+    id: 728,
+    japanese: "へちま",
+    romaji: "hechima",
+    type: "hiragana",
+  },
+  {
+    id: 729,
+    japanese: "ほうれんそう",
+    romaji: "hourensou",
+    type: "hiragana",
+  },
+  {
+    id: 730,
+    japanese: "まめ",
+    romaji: "mame",
+    type: "hiragana",
+  },
+  {
+    id: 731,
+    japanese: "みずうみ",
+    romaji: "mizuumi",
+    type: "hiragana",
+  },
+  {
+    id: 732,
+    japanese: "むかで",
+    romaji: "mukade",
+    type: "hiragana",
+  },
+  {
+    id: 733,
+    japanese: "めだか",
+    romaji: "medaka",
+    type: "hiragana",
+  },
+  {
+    id: 734,
+    japanese: "もも",
+    romaji: "momo",
+    type: "hiragana",
+  },
+  {
+    id: 735,
+    japanese: "やさい",
+    romaji: "yasai",
+    type: "hiragana",
+  },
+  {
+    id: 736,
+    japanese: "ゆり",
+    romaji: "yuri",
+    type: "hiragana",
+  },
+  {
+    id: 737,
+    japanese: "よもぎ",
+    romaji: "yomogi",
+    type: "hiragana",
+  },
+  {
+    id: 738,
+    japanese: "らん",
+    romaji: "ran",
+    type: "hiragana",
+  },
+  {
+    id: 739,
+    japanese: "りんごあめ",
+    romaji: "ringoame",
+    type: "hiragana",
+  },
+  {
+    id: 740,
+    japanese: "るり",
+    romaji: "ruri",
+    type: "hiragana",
+  },
+  {
+    id: 741,
+    japanese: "れんげ",
+    romaji: "renge",
+    type: "hiragana",
+  },
+  {
+    id: 742,
+    japanese: "ろうか",
+    romaji: "rouka",
+    type: "hiragana",
+  },
+  {
+    id: 743,
+    japanese: "わらび",
+    romaji: "warabi",
+    type: "hiragana",
+  },
+  {
+    id: 744,
+    japanese: "わかたけ",
+    romaji: "wakatake",
+    type: "hiragana",
+  },
+  {
+    id: 745,
+    japanese: "をどり",
+    romaji: "wodori",
+    type: "hiragana",
+  },
+  {
+    id: 746,
+    japanese: "しんかんせん",
+    romaji: "shinkansen",
+    type: "hiragana",
+  },
+  {
+    id: 747,
+    japanese: "でんしレンジ",
+    romaji: "denshirenji",
+    type: "hiragana",
+  },
+  {
+    id: 748,
+    japanese: "ぶんしょう",
+    romaji: "bunshou",
+    type: "hiragana",
+  },
+  {
+    id: 749,
+    japanese: "きって",
+    romaji: "kitte",
+    type: "hiragana",
+  },
+  {
+    id: 751,
+    japanese: "アルバム",
+    romaji: "arubamu",
+    type: "katakana",
+  },
+  {
+    id: 752,
+    japanese: "インフルエンザ",
+    romaji: "infuruenza",
+    type: "katakana",
+  },
+  {
+    id: 753,
+    japanese: "ウェブサイト",
+    romaji: "webusaito",
+    type: "katakana",
+  },
+  {
+    id: 754,
+    japanese: "エスカレーター",
+    romaji: "esukarētā",
+    type: "katakana",
+  },
+  {
+    id: 756,
+    japanese: "カーテン",
+    romaji: "kāten",
+    type: "katakana",
+  },
+  {
+    id: 758,
+    japanese: "クリーム",
+    romaji: "kurīmu",
+    type: "katakana",
+  },
+  {
+    id: 759,
+    japanese: "ケーキ屋",
+    romaji: "kēkiya",
+    type: "katakana",
+  },
+  {
+    id: 760,
+    japanese: "サングラス",
+    romaji: "sangurasu",
+    type: "katakana",
+  },
+  {
+    id: 763,
+    japanese: "スープ",
+    romaji: "sūpu",
+    type: "katakana",
+  },
+  {
+    id: 764,
+    japanese: "スケート",
+    romaji: "sukēto",
+    type: "katakana",
+  },
+  {
+    id: 765,
+    japanese: "ソファベッド",
+    romaji: "sofabeddo",
+    type: "katakana",
+  },
+  {
+    id: 766,
+    japanese: "タバコ",
+    romaji: "tabako",
+    type: "katakana",
+  },
+  {
+    id: 767,
+    japanese: "チョコレート",
+    romaji: "chokorēto",
+    type: "katakana",
+  },
+  {
+    id: 770,
+    japanese: "ナイロン",
+    romaji: "nairon",
+    type: "katakana",
+  },
+  {
+    id: 771,
+    japanese: "ニュースキャスター",
+    romaji: "nyūsukyasutā",
+    type: "katakana",
+  },
+  {
+    id: 772,
+    japanese: "ネックレス",
+    romaji: "nekkuresu",
+    type: "katakana",
+  },
+  {
+    id: 773,
+    japanese: "ノートパソコン",
+    romaji: "nōtopasokon",
+    type: "katakana",
+  },
+  {
+    id: 774,
+    japanese: "パイナップル",
+    romaji: "painappuru",
+    type: "katakana",
+  },
+  {
+    id: 775,
+    japanese: "バッグ",
+    romaji: "baggu",
+    type: "katakana",
+  },
+  {
+    id: 776,
+    japanese: "フィルム",
+    romaji: "firumu",
+    type: "katakana",
+  },
+  {
+    id: 777,
+    japanese: "ブラウス",
+    romaji: "burausu",
+    type: "katakana",
+  },
+  {
+    id: 778,
+    japanese: "ヘッドホン",
+    romaji: "heddohon",
+    type: "katakana",
+  },
+  {
+    id: 779,
+    japanese: "ボールペン",
+    romaji: "bōrupen",
+    type: "katakana",
+  },
+  {
+    id: 781,
+    japanese: "マヨネーズ",
+    romaji: "mayonēzu",
+    type: "katakana",
+  },
+  {
+    id: 782,
+    japanese: "ミュージカル",
+    romaji: "myūjikaru",
+    type: "katakana",
+  },
+  {
+    id: 783,
+    japanese: "メロン",
+    romaji: "meron",
+    type: "katakana",
+  },
+  {
+    id: 784,
+    japanese: "ヨーグルト",
+    romaji: "yōguruto",
+    type: "katakana",
+  },
+  {
+    id: 785,
+    japanese: "ラーメン",
+    romaji: "rāmen",
+    type: "katakana",
+  },
+  {
+    id: 787,
+    japanese: "レポート",
+    romaji: "repōto",
+    type: "katakana",
+  },
+  {
+    id: 788,
+    japanese: "ワンピース",
+    romaji: "wanpīsu",
+    type: "katakana",
+  },
+  {
+    id: 789,
+    japanese: "ガソリン",
+    romaji: "gasorin",
+    type: "katakana",
+  },
+  {
+    id: 791,
+    japanese: "グラス",
+    romaji: "gurasu",
+    type: "katakana",
+  },
+  {
+    id: 792,
+    japanese: "グループ",
+    romaji: "gurūpu",
+    type: "katakana",
+  },
+  {
+    id: 793,
+    japanese: "グレープフルーツ",
+    romaji: "gurēpufurūtsu",
+    type: "katakana",
+  },
+  {
+    id: 794,
+    japanese: "ゴム",
+    romaji: "gomu",
+    type: "katakana",
+  },
+  {
+    id: 795,
+    japanese: "サイズ",
+    romaji: "saizu",
+    type: "katakana",
+  },
+  {
+    id: 796,
+    japanese: "ジェットコースター",
+    romaji: "jettokōsutā",
+    type: "katakana",
+  },
+  {
+    id: 797,
+    japanese: "ジャーナリスト",
+    romaji: "jānarisuto",
+    type: "katakana",
+  },
+  {
+    id: 798,
+    japanese: "ズッキーニ",
+    romaji: "zukkīni",
+    type: "katakana",
+  },
+  {
+    id: 799,
+    japanese: "ゼリー",
+    romaji: "zerī",
+    type: "katakana",
+  },
 ];
