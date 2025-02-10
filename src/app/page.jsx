@@ -5,6 +5,7 @@ import { Tab } from "@headlessui/react";
 import WordList from "@/components/WordList";
 import Practice from "@/components/Pratice";
 import Test from "@/components/Test";
+import Flashcard from "@/components/Flashcard";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
@@ -27,7 +28,7 @@ export default function App() {
 
         <Tab.Group selectedIndex={selectedTab} onChange={setSelectedTab}>
           <Tab.List className="flex space-x-1 rounded-xl bg-indigo-900/20 p-1 max-w-2xl mx-auto mb-8">
-            {["Word List", "Practice", "Test"].map((tab) => (
+            {["Word List", "Practice","Flashcard", "Test"].map((tab) => (
               <Tab
                 key={tab}
                 className={({ selected }) =>
@@ -50,6 +51,9 @@ export default function App() {
             </Tab.Panel>
             <Tab.Panel>
               <Practice />
+            </Tab.Panel>
+            <Tab.Panel>
+              <Flashcard />
             </Tab.Panel>
             <Tab.Panel>
               <Test  />
