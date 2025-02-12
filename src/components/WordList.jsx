@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { words } from "../data/words";
 
-export default function WordList() {
+export default function WordList({ fontClass }) {
   const [filter, setFilter] = useState("all");
   const [searchTerm, setSearchTerm] = useState("");
   const [voices, setVoices] = useState([]);
@@ -94,7 +94,7 @@ export default function WordList() {
 
   // console.log(filterList)
   return (
-    <div className="bg-white rounded-2xl shadow-xl p-6">
+    <div className={`bg-white rounded-2xl shadow-xl p-6 ${fontClass}`}>
       {/* Controls Panel */}
       <div className="mb-6 space-y-4">
         <div className="flex flex-col sm:flex-row gap-4">

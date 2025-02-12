@@ -12,7 +12,7 @@ export default {
         foreground: "var(--foreground)",
       },
       fontFamily: {
-        japanese: ['Noto Sans JP', 'sans-serif'],
+        'noto-sans-jp': ['var(--font-noto-sans-jp)'],
       },
     },
   },
